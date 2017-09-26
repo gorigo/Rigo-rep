@@ -11,4 +11,4 @@ Abro w3schools y entro en la sección de html, fijándome en los pasos que dan, 
 Abro w3schools y entro en la sección de CSS. Modifico el archivo .htm creado anteriormente y le añado código CSS para ponerle fondo verde utilizando <style>
   
   
-
+Subo los archivos .xml y .htm, compruebo que este último funciona en rawgit.
